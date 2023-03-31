@@ -1,0 +1,10 @@
+Mar. 10, 2023 9:05:19 A.M. org.glassfish.jersey.message.internal.MessagingBinders$EnabledProvidersBinder bindToBinder
+WARNING: A class jakarta.activation.DataSource for a default provider MessageBodyWriter<jakarta.activation.DataSource> was not found. The provider is not available.
+Mar. 10, 2023 9:05:19 A.M. org.glassfish.jersey.server.wadl.WadlFeature configure
+WARNING: JAX-B API not found . WADL feature is disabled.
+Mar. 10, 2023 9:05:19 A.M. org.glassfish.grizzly.http.server.NetworkListener start
+INFO: Started listener bound to [localhost:8080]
+Mar. 10, 2023 9:05:19 A.M. org.glassfish.grizzly.http.server.HttpServer start
+INFO: [HttpServer] Started.
+Jersey app started with endpoints available at http://localhost:8080/myapp
+Hit Ctrl-C to stop it...
